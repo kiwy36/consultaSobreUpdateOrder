@@ -1,0 +1,38 @@
+nav {
+  background-color: #e80202;
+}
+:root {
+  --primary-color: #e80202;
+  --secondary-color: #4f4f4f;
+  --background-color: #f8f8f8;
+}
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+nav a {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+nav a {
+  cursor: pointer;
+}
+nav .cart a {
+  font-size: 32px;
+}
+.nav-link h2{
+  color: white;
+  transition: color 0.2s ease-in-out;
+}
+.nav-link h2:hover {
+  color: #e80202;
+}
+.navbar {
+  max-height: 10vh;
+  width: 100%;
+}

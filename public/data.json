@@ -1,0 +1,110 @@
+[
+    {
+        "id":1,
+        "name":"#1-bici",
+        "description":"lorem ipsum",
+        "stock":5,
+        "precio": 100,
+        "img":"../img/bici-01.jpg",
+        "category":"bici"
+    },
+    {
+        "id":2,
+        "name":"#2-bici",
+        "description":"lorem ipsum",
+        "stock":5,
+        "precio": 100,
+        "img":"../img/bici-02.jpg",
+        "category":"bici"
+    },
+    {
+        "id":3,
+        "name":"#3-bici",
+        "description":"lorem ipsum",
+        "stock":5,
+        "precio": 100,
+        "img":"../img/bici-03.jpg",
+        "category":"bici"
+    },
+    {
+        "id":4,
+        "name":"#4-bici",
+        "description":"lorem ipsum",
+        "stock":5,
+        "precio": 100,
+        "img":"../img/bici-04.jpg",
+        "category" :"bici"
+    },
+    {
+        "id":5,
+        "name":"#5-bici",
+        "description":"lorem ipsum",
+        "stock":5,
+        "precio": 100,
+        "img":"../img/bici-05.jpg",
+        "category":"bici"
+    },
+    {
+        "id":11,
+        "name":"#6-bici",
+        "description":"lorem ipsum",
+        "stock":5,
+        "precio": 100,
+        "img":"../img/bici-06.jpg",
+        "category":"bici"
+    },
+    {
+        "id":6,
+        "name":"#1-acse",
+        "description":"lorem ipsum",
+        "stock":5,
+        "precio": 100,
+        "img":"../img/ac-01.webp",
+        "category":"acsesorio"
+    },
+    {
+        "id":7,
+        "name":"#2-acse",
+        "description":"lorem ipsum",
+        "stock":5,
+        "precio": 100,
+        "img":"../img/ac-02.jpg",
+        "category":"acsesorio"
+    },
+    {
+        "id":8,
+        "name":"#3-acse",
+        "description":"lorem ipsum",
+        "stock":5,
+        "precio": 100,
+        "img":"../img/ac-03.jpg",
+        "category":"acsesorio"
+    },
+    {
+        "id":9,
+        "name":"#4-acse",
+        "description":"lorem ipsum",
+        "stock":5,
+        "precio": 100,
+        "img":"../img/ac-04.jpg",
+        "category":"acsesorio"
+    },
+    {
+        "id":10,
+        "name":"#5-acse",
+        "description":"lorem ipsum",
+        "stock":5,
+        "precio": 100,
+        "img":"../img/ac-05.jpg",
+        "category":"acsesorio"
+    },
+    {
+        "id":12,
+        "name":"#6-acse",
+        "description":"lorem ipsum",
+        "stock":5,
+        "precio": 100,
+        "img":"../img/ac-06.jpg",
+        "category":"acsesorio"
+    }
+]
